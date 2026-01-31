@@ -51,11 +51,11 @@ Tech Stack:
 
 JavaScript
 
-Three.js — 3D rendering
+Three.js - 3D rendering
 
-MediaPipe Hands — hand tracking
+MediaPipe Hands - hand tracking
 
-HTML Canvas — HUD & biometric overlays
+HTML Canvas - HUD & biometric overlays
 
 WebGL
 
